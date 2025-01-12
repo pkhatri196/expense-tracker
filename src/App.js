@@ -12,7 +12,7 @@ const App = () => {
       container
       className={classes.grid}
       display="flex"
-      flexDirection="row"
+      direction="row"
       alignItems="center"
       justifyContent="center"
       sx={{ height: "100vh"  }}
